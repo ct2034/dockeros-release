@@ -12,14 +12,14 @@ tracks:
       -i :{release_inc} --os-name debian --os-not-required
     - git-bloom-generate -y rosrpm --prefix release/:{ros_distro} :{ros_distro} -i
       :{release_inc}
-    devel_branch: null
+    devel_branch: master
     last_version: 1.0.0
-    name: source
+    name: dockeROS
     patches: null
     release_inc: '0'
     release_repo_url: null
-    release_tag: :{version}
+    release_tag: '1.0'
     ros_distro: kinetic
     vcs_type: git
     vcs_uri: https://github.com/ct2034/dockeROS.git
-    version: 1.0.0
+    version: :{auto}
