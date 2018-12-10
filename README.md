@@ -1,3 +1,26 @@
+## dockeros (kinetic) - 1.0.1-0
+
+The packages in the `dockeros` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release dockeros --rosdistro kinetic` on `Mon, 10 Dec 2018 23:17:38 -0000`
+
+The `dockeros` package was released.
+
+Version of package(s) in repository `dockeros`:
+
+- upstream repository: https://github.com/ct2034/dockeROS.git
+- release repository: https://github.com/ct2034/dockeros-release.git
+- rosdistro version: `1.0.0-0`
+- old version: `1.0.0-1`
+- new version: `1.0.1-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.9`
+- catkin_pkg version: `0.4.9`
+- rosdep version: `0.13.0`
+- rosdistro version: `0.7.0`
+- vcstools version: `0.1.40`
+
+
 ## dockeROS (kinetic) - 1.0.0-1
 
 The packages in the `dockeROS` repository were released into the `kinetic` distro by running `/home/cch-student/anaconda2/bin/bloom-release --rosdistro kinetic --track kinetic dockeROS --edit` on `Mon, 10 Dec 2018 09:31:14 -0000`
