@@ -1,8 +1,8 @@
 Source: ros-kinetic-dockeros
 Section: misc
 Priority: extra
-Maintainer: ct2034 <post@henkelchristian.de>
-Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin, ros-kinetic-rospy, ros-kinetic-rostest
+Maintainer: ct2034 <christian.henkel@ipa.fraunhofer.de>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin, ros-kinetic-rospy
 Homepage: 
 Standards-Version: 3.9.2
 
