@@ -14,7 +14,7 @@ tracks:
       :{release_inc}
     devel_branch: master
     last_release: '1.0'
-    last_version: 1.0.1
+    last_version: 1.0.2
     name: dockeROS
     patches: null
     release_inc: '0'
