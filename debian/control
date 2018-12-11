@@ -1,0 +1,12 @@
+Source: ros-kinetic-dockeros
+Section: misc
+Priority: extra
+Maintainer: ct2034 <post@henkelchristian.de>
+Build-Depends: debhelper (>= 9.0.0), python-docker, ros-kinetic-catkin, ros-kinetic-rospy, ros-kinetic-rostest
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-dockeros
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, python-docker, ros-kinetic-rospy
+Description: Simply running ros nodes in docker containers on remote robots.
