@@ -2,6 +2,12 @@
 Changelog for package dockeros
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.1.0 (2019-12-05)
+------------------
+* documentation
+* also on melodic
+* Contributors: Christian Henkel, ct2034, proffessor.x
+
 1.0.3 (2018-12-12)
 ------------------
 * removing rospy from CMakeLists
