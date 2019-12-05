@@ -1,0 +1,12 @@
+Source: ros-melodic-dockeros
+Section: misc
+Priority: optional
+Maintainer: Christian Henkel <post@henkelchristian.de>
+Build-Depends: debhelper (>= 9.0.0), python-docker, ros-melodic-catkin, ros-melodic-rostest
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-melodic-dockeros
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, python-docker
+Description: Simply running ros nodes in docker containers on remote robots.
